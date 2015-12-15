@@ -1,0 +1,407 @@
+{
+  "width": 800,
+  "height": 500,
+  "viewport": [900,565],
+  "data": [
+    {
+      "name": "polaris",
+      "values": [
+        {
+          "EBIT_Margin_Percentage": 0.142044887,
+          "Direct_Customer_Margin_Percentage": 0.211276591,
+          "Gross_Margin_Percentage": 0.222841791,
+          "Net_Revenue": 257.981208,
+          "Revenue": 4929665012,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 1",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2004,
+          "Customer_Name": "Customer 101",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 2",
+          "Customer_Channel": "Walmart",
+          "YEAR": 2012
+        },
+        {
+          "EBIT_Margin_Percentage": 0.009636917,
+          "Direct_Customer_Margin_Percentage": 0.103579259,
+          "Gross_Margin_Percentage": 0.119131766,
+          "Net_Revenue": 128.8231,
+          "Revenue": 308304,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2063,
+          "Customer_Name": "Customer 62",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 1",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2013
+        },
+        {
+          "EBIT_Margin_Percentage": 0.060556068,
+          "Direct_Customer_Margin_Percentage": 0.129219199,
+          "Gross_Margin_Percentage": 0.148845496,
+          "Net_Revenue": 188.9808566,
+          "Revenue": 4230461664,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2002,
+          "Customer_Name": "Customer 10",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 2",
+          "Customer_Channel": "Club",
+          "YEAR": 2013
+        },
+        {
+          "EBIT_Margin_Percentage": 0.008154871,
+          "Direct_Customer_Margin_Percentage": 0.185800799,
+          "Gross_Margin_Percentage": 0.215903585,
+          "Net_Revenue": 79.3203222,
+          "Revenue": 1701413952,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 1",
+          "Product_Type": "Base2",
+          "Customer_ID": 2036,
+          "Customer_Name": "Customer 37",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 1",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2014
+        },
+        {
+          "EBIT_Margin_Percentage": 0.077964167,
+          "Direct_Customer_Margin_Percentage": 0.177274129,
+          "Gross_Margin_Percentage": 0.215685059,
+          "Net_Revenue": 192.888627,
+          "Revenue": 387680832,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2025,
+          "Customer_Name": "Customer 27",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 1",
+          "Customer_Channel": "Value",
+          "YEAR": 2014
+        },
+        {
+          "EBIT_Margin_Percentage": 0.063831834,
+          "Direct_Customer_Margin_Percentage": 0.172438144,
+          "Gross_Margin_Percentage": 0.195549158,
+          "Net_Revenue": 85.860125,
+          "Revenue": 18613692,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base2",
+          "Customer_ID": 2073,
+          "Customer_Name": "Customer 71",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 2",
+          "Customer_Channel": "Convenience",
+          "YEAR": 2012
+        },
+        {
+          "EBIT_Margin_Percentage": 0.18805855,
+          "Direct_Customer_Margin_Percentage": 0.331508928,
+          "Gross_Margin_Percentage": 0.386143428,
+          "Net_Revenue": 61.85674,
+          "Revenue": 6816852,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2031,
+          "Customer_Name": "Customer 32",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 1",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2014
+        },
+        {
+          "EBIT_Margin_Percentage": 0.17951892,
+          "Direct_Customer_Margin_Percentage": 0.308189358,
+          "Gross_Margin_Percentage": 0.361916152,
+          "Net_Revenue": 170.4914272,
+          "Revenue": 258519888,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2052,
+          "Customer_Name": "Customer 51",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 2",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2014
+        },
+        {
+          "EBIT_Margin_Percentage": 0.074880637,
+          "Direct_Customer_Margin_Percentage": 0.172830155,
+          "Gross_Margin_Percentage": 0.219448309,
+          "Net_Revenue": 185.518387,
+          "Revenue": 32154975,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 1",
+          "Product_Type": "Base2",
+          "Customer_ID": 2026,
+          "Customer_Name": "Customer 28",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 1",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2013
+        },
+        {
+          "EBIT_Margin_Percentage": 0.145748629,
+          "Direct_Customer_Margin_Percentage": 0.191144539,
+          "Gross_Margin_Percentage": 0.208572402,
+          "Net_Revenue": 138.1594688,
+          "Revenue": 3652645328,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 1",
+          "Product_Type": "Base2",
+          "Customer_ID": 2025,
+          "Customer_Name": "Customer 27",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 1",
+          "Customer_Channel": "Value",
+          "YEAR": 2015
+        },
+        {
+          "EBIT_Margin_Percentage": 0.171772599,
+          "Direct_Customer_Margin_Percentage": 0.248803902,
+          "Gross_Margin_Percentage": 0.266429672,
+          "Net_Revenue": 154.0454374,
+          "Revenue": 2956127328,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2044,
+          "Customer_Name": "Customer 44",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 1",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2015
+        },
+        {
+          "EBIT_Margin_Percentage": 0.012356578,
+          "Direct_Customer_Margin_Percentage": 0.16612043,
+          "Gross_Margin_Percentage": 0.211838315,
+          "Net_Revenue": 75.8686,
+          "Revenue": 17883592,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2024,
+          "Customer_Name": "Customer 25",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 2",
+          "Customer_Channel": "Drug",
+          "YEAR": 2013
+        },
+        {
+          "EBIT_Margin_Percentage": 0.051988997,
+          "Direct_Customer_Margin_Percentage": 0.170290598,
+          "Gross_Margin_Percentage": 0.20029565,
+          "Net_Revenue": 138.5753572,
+          "Revenue": 3324160512,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 1",
+          "Product_Type": "Base2",
+          "Customer_ID": 2060,
+          "Customer_Name": "Customer 6",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 3",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2014
+        },
+        {
+          "EBIT_Margin_Percentage": 0.032661694,
+          "Direct_Customer_Margin_Percentage": 0.116051364,
+          "Gross_Margin_Percentage": 0.180675102,
+          "Net_Revenue": 99.89,
+          "Revenue": 10591,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 2",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2053,
+          "Customer_Name": "Customer 52",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 2",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2012
+        },
+        {
+          "EBIT_Margin_Percentage": 0.046428634,
+          "Direct_Customer_Margin_Percentage": 0.125082653,
+          "Gross_Margin_Percentage": 0.180693932,
+          "Net_Revenue": 106.010161,
+          "Revenue": 1122646,
+          "Product_Category": "Category 1",
+          "Product_Brand": "Brand 1",
+          "Product_Type": "Base 1",
+          "Customer_ID": 2046,
+          "Customer_Name": "Customer 46",
+          "Customer_Division": "Customer Division 1",
+          "Customer_Segment": "Customer Segment 4",
+          "Customer_Channel": "Grocery",
+          "YEAR": 2014
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "name": "tooltip",
+      "init": {},
+      "streams": [
+        {"type": "symbol:mouseover","expr": "datum"},
+        {"type": "symbol:mouseout","expr": "datum"}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "range": "width",
+      "domain": {"data": "polaris","field": "Revenue"}
+    },
+    {
+      "name": "y",
+      "range": "height",
+      "domain": {"data": "polaris","field": "EBIT_Margin_Percentage"}
+    },
+    {
+      "name": "c",
+      "type": "ordinal",
+      "domain": {"data": "polaris","field": "Customer_Name"},
+      "range": "category10"
+    },
+    {
+      "name": "s",
+      "type": "ordinal",
+      "domain": {"data": "polaris","field": "Product_Brand"},
+      "range": ["circle","square"]
+    }
+  ],
+  "axes": [
+    {
+      "type": "x",
+      "scale": "x",
+      "offset": 1,
+      "tickSize": 5,
+      "title": "Revenue"
+    },
+    {
+      "type": "y",
+      "scale": "y",
+      "offset": 5,
+      "ticks": 5,
+      "title": "EBT Margin"
+    }
+  ],
+  "legends": [
+    {
+      "shape": "s",
+      "title": "Brand",
+      "offset": 0,
+      "properties": {
+        "symbols": {
+          "fillOpacity": {"value": 0.5},
+          "stroke": {"value": "#001"}
+        }
+      }
+    },
+    {
+      "fill": "c",
+      "title": "Customer",
+      "offset": 0.5,
+      "properties": {
+        "symbols": {
+          "fillOpacity": {"value": 0.5},
+          "stroke": {"value": "transparent"}
+        }
+      }
+    }
+  ],
+  "marks": [
+    {
+      "type": "symbol",
+      "from": {"data": "polaris"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x","field": "Revenue"},
+          "y": {"scale": "y","field": "EBIT_Margin_Percentage"},
+          "shape": {"scale": "s","field": "Product_Brand"},
+          "fill": {"scale": "c","field": "Customer_Name"},
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {
+        "data": "polaris",
+        "transform": [
+          {
+            "type": "formula",
+            "field": "lbl",
+            "expr": "datum.Revenue + ',' + datum.EBIT_Margin_Percentage"
+          }
+        ]
+      },
+      "properties": {
+        "enter": {
+          "x": {"scale": "x","field": "Revenue"},
+          "y": {"scale": "y","field": "EBIT_Margin_Percentage"},
+          "baseline": {"value": "middle"},
+          "align": {"value": "center"},
+          "fontWeight": {"value": "bold"},
+          "fontSize": {"value": 12},
+          "stroke": {"value": "black"},
+          "strokeWidth": {"value": 0.5},
+          "width": {"value": 150},
+          "height": {"value": 35},
+          "fill": {"value": "black"},
+          "fillOpacity": {"value": 0}
+        },
+        "update": {
+          "fillOpacity": {"value": 0},
+          "text": {"value": ""}, 
+          "stroke": {"value": "transparent"}
+        },
+        "hover": {
+          "fillOpacity": {"value": 1},
+          "text": {"field": "lbl"}
+        }
+      }
+    },
+    {
+      "type": "rule",
+      "from": {
+        "data": "polaris",
+        "transform": [
+          {
+            "type": "aggregate",
+            "summarize": [
+              {
+                "field": "Revenue",
+                "ops": ["mean"],
+                "as": ["mean"]
+              }
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "update": {
+          "stroke": {"value": "#000"},
+          "strokeWidth": {"value": 1},
+          "strokeDash": {"value": [10,5]},
+          "x": {"scale": "x","field": "mean"},
+          "y": {"value": 0},
+          "y2": {"field": {"group": "height"}}
+        }
+      }
+    }
+  ]
+}
